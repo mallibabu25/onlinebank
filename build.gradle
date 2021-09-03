@@ -98,6 +98,7 @@ dependencies {
 	compile group: 'com.github.slugify', name: 'slugify-integration-jstl', version: '2.1.9'
 	
 	compile fileTree(dir: "./src/main/webapp/WEB-INF/libs", include: '*.jar')
+	
 }
 
 test {
